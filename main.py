@@ -6,7 +6,7 @@ from llama_index.llms.openai_like import OpenAILike
 load_dotenv()
 
 llm = OpenAILike(
-    model=os.getenv("TOKENLAB_MODEL", "gpt-5.4"),
+    model=os.getenv("TOKENLAB_MODEL", "gpt-5.5"),
     api_base="https://api.tokenlab.sh/v1",
     api_key=os.environ["TOKENLAB_API_KEY"],
     is_chat_model=True,

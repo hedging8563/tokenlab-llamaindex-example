@@ -1,5 +1,7 @@
 # TokenLab LlamaIndex Example
 
+[![CI](https://github.com/hedging8563/tokenlab-llamaindex-example/actions/workflows/ci.yml/badge.svg)](https://github.com/hedging8563/tokenlab-llamaindex-example/actions/workflows/ci.yml)
+
 Minimal LlamaIndex example using TokenLab through the OpenAI-like LLM adapter.
 
 ## Quickstart

@@ -16,6 +16,6 @@ python main.py
 
 ## Links
 
-- TokenLab docs: https://docs.tokenlab.sh
-- LlamaIndex integration docs: https://docs.tokenlab.sh/integrations/llamaindex
+- TokenLab docs: https://tokenlab.sh/docs
+- LlamaIndex integration docs: https://tokenlab.sh/docs/en/integrations/llamaindex
 - Model catalog: https://api.tokenlab.sh/v1/models
